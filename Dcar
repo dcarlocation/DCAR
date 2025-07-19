@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Location de voiture en Guadeloupe dès 20€/jour avec DCAR. Kilométrage illimité, réservation simple par téléphone, mail ou WhatsApp.">
+  <title>DCAR – Location de Voiture en Guadeloupe</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f9f9f9; color: #333; }
+    header { background: #2d89ef; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; max-width: 900px; margin: auto; background: white; margin-bottom: 20px; }
+    h1, h2 { color: #2d89ef; }
+    .cta { background: #e8f0fe; padding: 15px; border-left: 4px solid #2d89ef; margin-top: 20px; }
+    footer { background: #2d89ef; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>DCAR – Location de voiture en Guadeloupe</h1>
+    <p>Voiture citadine dès 20€/jour – Kilométrage illimité</p>
+  </header>
+
+  <section>
+    <h2>📍 Disponible dans toute la Guadeloupe</h2>
+    <p>Livraison à l’aéroport, hôtels, gares maritimes et grandes villes : Pointe-à-Pitre, Baie-Mahault, Le Gosier, Sainte-Anne, Saint-François, etc.</p>
+  </section>
+
+  <section>
+    <h2>🚗 Nos véhicules</h2>
+    <ul>
+      <li>Voitures citadines économiques</li>
+      <li>Climatisation, radio, USB</li>
+      <li>Entretien régulier & assurance incluse</li>
+      <li>Kilométrage illimité</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📞 Réservation simple et rapide</h2>
+    <p>Réservez dès maintenant :</p>
+    <ul>
+      <li>Email : <strong>ton-email@exemple.com</strong></li>
+      <li>Téléphone : <strong>06 XX XX XX XX</strong></li>
+      <li>WhatsApp : <strong>[Numéro WhatsApp]</strong></li>
+    </ul>
+    <div class="cta">
+      <strong>Réponse rapide garantie !</strong> Nous confirmons la disponibilité et livrons le véhicule à l’endroit de votre choix.
+    </div>
+  </section>
+
+  <section>
+    <h2>🎁 Offres spéciales</h2>
+    <ul>
+      <li>Location dès 20€/jour</li>
+      <li>Kilométrage illimité</li>
+      <li>Livraison gratuite à l’aéroport</li>
+      <li>Conducteur additionnel offert (selon durée)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>⭐ Avis clients</h2>
+    <blockquote>\"Service impeccable ! Voiture propre, livraison rapide à l’aéroport. Merci DCAR !\"</blockquote>
+    <blockquote>\"Parfait pour nos vacances, réservation facile par WhatsApp et voiture en super état.\"</blockquote>
+  </section>
+
+  <footer>
+    <p>© 2025 DCAR Location de Voiture – Guadeloupe | Contact : ton-email@exemple.com</p>
+  </footer>
+</body>
+</html>
